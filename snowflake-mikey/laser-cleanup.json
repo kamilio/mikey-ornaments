@@ -1,8 +1,8 @@
 {
   "source": "snowflake-mikey/original-render.png",
   "output": "snowflake-mikey/laser.png",
-  "source_sha256": "64388e823684ee17858bf82ac6a05dcff391b4a8605bb529303e95a3eb2c2712",
-  "output_sha256": "fcb3987ded895d2d6dfa421e255ab156db0eaa968592555863b1527965dbc1ee",
+  "source_sha256": "bb9162ed63ac53132e9d3f87be1eba3e62fb45e9296e14db26c5411092c76075",
+  "output_sha256": "f60efb9f298b837df5341d8be6cd7200bd0f3f1fc146e57d7a520f8aaa12318b",
   "original_pixels": [
     2221,
     2517

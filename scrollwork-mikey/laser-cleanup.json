@@ -1,8 +1,8 @@
 {
   "source": "scrollwork-mikey/original-render.png",
   "output": "scrollwork-mikey/laser.png",
-  "source_sha256": "189ed50cd442df6733afb329fc38b81330c84709f6cd0e04d9517f92ac0ab4b8",
-  "output_sha256": "bd843be397ef6632b81a517f8173d481ef2892cfbd6fdc4317cdd0c1045869a4",
+  "source_sha256": "c973c245bf9e0013c3529401b25ad7963f4361056bf1a39a05cc3ad4a9040a78",
+  "output_sha256": "0b4df15586116f7ffe1a0c32403b86b338702273f1c175c1c416a87b78c54a7a",
   "original_pixels": [
     2221,
     2512
@@ -22,6 +22,6 @@
     599.9988
   ],
   "white_threshold": 245,
-  "exterior_pixels_cleared": 1939853,
+  "exterior_pixels_cleared": 1939854,
   "method": "border-connected background removal, exterior edge unmatting, alpha crop"
 }

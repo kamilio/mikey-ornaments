@@ -13,12 +13,17 @@
       "preview": "tree-mikey/review.png",
       "original_render": "tree-mikey/original-render.png",
       "preparation_report": "tree-mikey/laser-cleanup.json",
-      "closed_cut_contours": 29,
+      "closed_cut_contours": 33,
       "retained_components": 1,
       "status": "Digitally checked; no physical test cut.",
-      "lettering": "Pacifico Regular, outlined with HarfBuzz; dot joined to stem, k and y joined to rails.",
-      "lettering_components": 1,
-      "retained_components_after_0_127mm_edge_erosion": 1
+      "lettering": "Pacifico Regular with joined i dot and multiple baseline contacts to lower rail; k welded to upper rail.",
+      "connected_components_after_inward_offset_mm": {
+        "0": 1,
+        "0.15": 1,
+        "0.5": 1,
+        "0.75": 1
+      },
+      "cut_sha256": "82aaf6ee1e4a126e4f7ad293b280432aa2cf69270c7fd35a9a643ab06c03f634"
     },
     {
       "id": "snowflake-mikey",
@@ -29,12 +34,17 @@
       "preview": "snowflake-mikey/review.png",
       "original_render": "snowflake-mikey/original-render.png",
       "preparation_report": "snowflake-mikey/laser-cleanup.json",
-      "closed_cut_contours": 19,
+      "closed_cut_contours": 21,
       "retained_components": 1,
       "status": "Digitally checked; no physical test cut.",
-      "lettering": "Pacifico Regular, outlined with HarfBuzz; dot joined to stem, k and y joined to rails.",
-      "lettering_components": 1,
-      "retained_components_after_0_127mm_edge_erosion": 1
+      "lettering": "Pacifico Regular with joined i dot and multiple baseline contacts to lower rail; k welded to upper rail.",
+      "connected_components_after_inward_offset_mm": {
+        "0": 1,
+        "0.15": 1,
+        "0.5": 1,
+        "0.75": 1
+      },
+      "cut_sha256": "420e48b6d9d37f2f4a740fd2c8982996c245c1512c052f3ca3eece21c71d6668"
     },
     {
       "id": "scrollwork-mikey",
@@ -45,12 +55,17 @@
       "preview": "scrollwork-mikey/review.png",
       "original_render": "scrollwork-mikey/original-render.png",
       "preparation_report": "scrollwork-mikey/laser-cleanup.json",
-      "closed_cut_contours": 31,
+      "closed_cut_contours": 32,
       "retained_components": 1,
       "status": "Digitally checked; no physical test cut.",
-      "lettering": "Pacifico Regular, outlined with HarfBuzz; dot joined to stem, k and y joined to rails.",
-      "lettering_components": 1,
-      "retained_components_after_0_127mm_edge_erosion": 1
+      "lettering": "Pacifico Regular with joined i dot and multiple baseline contacts to lower rail; k welded to upper rail.",
+      "connected_components_after_inward_offset_mm": {
+        "0": 1,
+        "0.15": 1,
+        "0.5": 1,
+        "0.75": 1
+      },
+      "cut_sha256": "4358392c38ab62f04c51672551ec0e638c6cc64c0a11a485cc54566b784e50be"
     }
   ],
   "font": {
