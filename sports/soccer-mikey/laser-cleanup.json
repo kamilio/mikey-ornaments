@@ -1,0 +1,27 @@
+{
+  "source": "soccer-mikey/original-render.png",
+  "output": "soccer-mikey/laser.png",
+  "source_sha256": "31c0af89c2743e89ad1c2e0e8e1d44b757b96c6ecaaf4f697ea774688510d1fc",
+  "output_sha256": "584e6b5d5d2d22588d3caa55e8690788e7a0fc894e0384dbcb251fd73f67032c",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    0,
+    0,
+    1150,
+    1241
+  ],
+  "output_pixels": [
+    1150,
+    1241
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 374696,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

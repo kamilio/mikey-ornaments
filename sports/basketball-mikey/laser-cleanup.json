@@ -1,0 +1,27 @@
+{
+  "source": "basketball-mikey/original-render.png",
+  "output": "basketball-mikey/laser.png",
+  "source_sha256": "c7bcc4629f6ebbeb78f2051673c66b50410adc58255afb815a50210ef98b02a6",
+  "output_sha256": "c6d67855c7408db0062bb4d3cc706523bf68fc2391b7a1a5bb33e96b614db07e",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    0,
+    0,
+    1150,
+    1241
+  ],
+  "output_pixels": [
+    1150,
+    1241
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 382339,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

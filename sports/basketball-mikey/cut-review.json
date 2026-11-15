@@ -1,0 +1,135 @@
+{
+  "source_sha256": "9eb7862d7868a73a9cd053dc8234f6681469098275ac6dc21add8f251a349245",
+  "canvas_mm": [
+    76,
+    82
+  ],
+  "closed_cut_contours": 22,
+  "internal_cutouts": 21,
+  "outer_cut_contours": 1,
+  "engrave_paths": 0,
+  "retained_components": 1,
+  "internal_rings": 21,
+  "geometry_method": "Curves sampled at up to 0.117 mm arc length; disjoint simple cut loops and pairwise boundary distances. Insets remove material from all cut edges; measures are nominal without kerf.",
+  "minimum_separate_cut_clearance_mm": 1.505,
+  "six_nearest_cut_pairs": [
+    {
+      "cut_pair": [
+        "k-ascender-loop",
+        "script-right-opening"
+      ],
+      "wood_mm": 1.505,
+      "closest_points_svg": [
+        [
+          374.93,
+          328.24
+        ],
+        [
+          383.96,
+          335.59
+        ]
+      ]
+    },
+    {
+      "cut_pair": [
+        "e-y-return-opening",
+        "y-descending-loop"
+      ],
+      "wood_mm": 1.508,
+      "closest_points_svg": [
+        [
+          494.2,
+          414.6
+        ],
+        [
+          501.99,
+          423.28
+        ]
+      ]
+    },
+    {
+      "cut_pair": [
+        "M-i-k-upper-opening",
+        "i-k-baseline-opening"
+      ],
+      "wood_mm": 1.509,
+      "closest_points_svg": [
+        [
+          332.39,
+          403.15
+        ],
+        [
+          340.0,
+          412.0
+        ]
+      ]
+    },
+    {
+      "cut_pair": [
+        "e-counter",
+        "script-right-opening"
+      ],
+      "wood_mm": 1.527,
+      "closest_points_svg": [
+        [
+          450.11,
+          354.98
+        ],
+        [
+          461.8,
+          356.72
+        ]
+      ]
+    },
+    {
+      "cut_pair": [
+        "script-right-opening",
+        "e-y-return-opening"
+      ],
+      "wood_mm": 1.551,
+      "closest_points_svg": [
+        [
+          461.72,
+          394.19
+        ],
+        [
+          471.6,
+          401.0
+        ]
+      ]
+    },
+    {
+      "cut_pair": [
+        "left-of-M",
+        "inside-M"
+      ],
+      "wood_mm": 1.556,
+      "closest_points_svg": [
+        [
+          195.22,
+          295.83
+        ],
+        [
+          204.5,
+          303.5
+        ]
+      ]
+    }
+  ],
+  "eyelet_diameter_mm": 3.671,
+  "minimum_eyelet_wall_mm": 2.318,
+  "y_loop_min_wall_mm": 1.789,
+  "upper_rail_mm": 2.262,
+  "lower_rail_mm": 2.146,
+  "center_seam_upper_mm": 2.779,
+  "center_seam_lower_mm": 2.908,
+  "connected_components_after_inset_mm": {
+    "0.1": 1,
+    "0.2": 1,
+    "0.45": 1,
+    "0.6": 1,
+    "0.7": 1,
+    "0.75": 1,
+    "0.8": 3
+  }
+}

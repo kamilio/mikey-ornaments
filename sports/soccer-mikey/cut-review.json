@@ -1,0 +1,138 @@
+{
+  "source_sha256": "0b65ed6698665a074c26e67dbef13e168c925c7caac435293fbb29a4bb56f8a4",
+  "canvas_mm": [
+    76,
+    82
+  ],
+  "closed_cut_contours": 31,
+  "internal_cutouts": 30,
+  "outer_cut_contours": 1,
+  "engrave_paths": 0,
+  "retained_components": 1,
+  "internal_rings": 30,
+  "geometry_method": "Curves sampled at up to 0.124 mm of arc length; simple closed polygons and pairwise edge distances. Inset shrinks wood from every cut side. Nominal dimensions; no kerf compensation.",
+  "minimum_separate_cut_clearance_mm": 1.603,
+  "six_nearest_cut_pairs": [
+    {
+      "cut_pair": [
+        "i-dot-and-stem-space",
+        "M-i-foot-join"
+      ],
+      "wood_mm": 1.603,
+      "nearest_mm": [
+        [
+          28.282,
+          51.86
+        ],
+        [
+          28.918,
+          53.331
+        ]
+      ]
+    },
+    {
+      "cut_pair": [
+        "key-upper-script-space",
+        "k-loop"
+      ],
+      "wood_mm": 1.605,
+      "nearest_mm": [
+        [
+          39.671,
+          45.774
+        ],
+        [
+          41.147,
+          46.405
+        ]
+      ]
+    },
+    {
+      "cut_pair": [
+        "e-y-foot-join",
+        "key-upper-script-space"
+      ],
+      "wood_mm": 1.647,
+      "nearest_mm": [
+        [
+          53.185,
+          53.331
+        ],
+        [
+          52.472,
+          51.847
+        ]
+      ]
+    },
+    {
+      "cut_pair": [
+        "y-descender-counter",
+        "lower-right-panel-around-y"
+      ],
+      "wood_mm": 1.665,
+      "nearest_mm": [
+        [
+          57.73,
+          57.413
+        ],
+        [
+          56.215,
+          56.722
+        ]
+      ]
+    },
+    {
+      "cut_pair": [
+        "key-upper-script-space",
+        "e-counter"
+      ],
+      "wood_mm": 1.681,
+      "nearest_mm": [
+        [
+          50.798,
+          49.159
+        ],
+        [
+          50.134,
+          47.615
+        ]
+      ]
+    },
+    {
+      "cut_pair": [
+        "k-e-foot-join",
+        "key-upper-script-space"
+      ],
+      "wood_mm": 1.737,
+      "nearest_mm": [
+        [
+          47.094,
+          52.32
+        ],
+        [
+          45.71,
+          51.27
+        ]
+      ]
+    }
+  ],
+  "main_rail_mm": {
+    "upper": 2.543,
+    "lower": 2.47
+  },
+  "eyelet_diameter_mm": 4.214,
+  "minimum_eyelet_wall_mm": 2.652,
+  "upper_pentagon_lower_web_mm": 2.034,
+  "lower_pentagon_upper_web_mm": 2.034,
+  "y_loop_min_wall_mm": 1.665,
+  "connected_components_after_inset_mm": {
+    "0.1": 1,
+    "0.2": 1,
+    "0.45": 1,
+    "0.6": 1,
+    "0.7": 1,
+    "0.75": 1,
+    "0.8": 2
+  },
+  "isolated_dots": 0
+}

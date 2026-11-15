@@ -143,6 +143,45 @@
       "reference": "soccer-holly/reference/poe/image.png",
       "cut_contours": 2,
       "status": "Visually reviewed; fabrication untested"
+    },
+    {
+      "id": "soccer-mikey",
+      "title": "Mikey · Soccer",
+      "sport": "soccer",
+      "kind": "Personalized openwork cutout",
+      "cut_contours": 31,
+      "status": "Digitally inspected; fabrication untested",
+      "reference": "soccer-mikey/reference/sunburst-25/image.png",
+      "source_sha256": "0b65ed6698665a074c26e67dbef13e168c925c7caac435293fbb29a4bb56f8a4",
+      "download_sha256": "584e6b5d5d2d22588d3caa55e8690788e7a0fc894e0384dbcb251fd73f67032c",
+      "svg": "soccer-mikey/ornament.svg",
+      "preview": "soccer-mikey/preview.png",
+      "download": "soccer-mikey/laser.png",
+      "original_render": "soccer-mikey/original-render.png",
+      "preparation_report": "soccer-mikey/laser-cleanup.json",
+      "review": "soccer-mikey/cut-review.json",
+      "notes": "soccer-mikey/construction.md",
+      "comparison": "soccer-mikey/reference/author-comparison.jpg"
+    },
+    {
+      "id": "basketball-mikey",
+      "title": "Mikey · Basketball",
+      "sport": "basketball",
+      "kind": "Personalized openwork cutout",
+      "cut_contours": 22,
+      "status": "Digitally inspected; fabrication untested",
+      "reference": "basketball-mikey/reference/sunburst-25/image.png",
+      "source_sha256": "9eb7862d7868a73a9cd053dc8234f6681469098275ac6dc21add8f251a349245",
+      "download_sha256": "c6d67855c7408db0062bb4d3cc706523bf68fc2391b7a1a5bb33e96b614db07e",
+      "svg": "basketball-mikey/ornament.svg",
+      "preview": "basketball-mikey/preview.png",
+      "download": "basketball-mikey/laser.png",
+      "original_render": "basketball-mikey/original-render.png",
+      "preparation_report": "basketball-mikey/laser-cleanup.json",
+      "review": "basketball-mikey/cut-review.json",
+      "notes": "basketball-mikey/construction.md",
+      "comparison": "basketball-mikey/reference/author-comparison.jpg"
     }
-  ]
+  ],
+  "drafts": []
 }

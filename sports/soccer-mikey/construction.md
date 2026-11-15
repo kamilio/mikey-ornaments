@@ -1,0 +1,9 @@
+# Mikey · openwork soccer ornament
+
+76 × 82 mm. Use the red contours in ornament.svg as cuts. There are **31 closed cuts**: 29 interior artwork openings, a 4.21 mm hanging hole, and one outer perimeter, last in the file. There is no engraving, live text or overlapping second perimeter. The PNG is a silhouette: black is retained material, white interior areas are waste. The wood-tone preview is for display.
+
+The script, two horizontal rails, circular rim and central hanging tab follow the selected Sunburst reference and the photographed name ornaments. The two solid pentagons in the generated reference were opened, leaving a soccer seam web above and below the script. Each letter is connected to the lower rail, the i dot hangs from the upper rail on a 1.74 mm stem, and the y descender returns to the lower rail around a real enclosed counter. The k and e have separate counters.
+
+Geometry check: the 30 disjoint interior cuts sit inside the perimeter and leave a single connected piece. The nominal minimum between different cuts is 1.60 mm at the left of the i; the y loop has a 1.67 mm minimum wall. The main rails are 2.54 and 2.47 mm, the webs between the pentagons and the adjacent trapezoids are 2.03 mm, and the eyelet has at least 2.65 mm of wood to the outside edge. The cut review also checks connectivity after polygon inset: the wood remains in one piece at 0.75 mm inset per side; at 0.80 mm the softened geometry splits. These figures use the unmodified artwork geometry and are not laser/material tolerances. Kerf, grain and ply quality require a material test. No physical cut or xTool import has been verified.
+
+Reference and contour comparisons are in reference/author-comparison.jpg and cut-lines.png. The original-render.png silhouette was rendered from the closed contours. embroidery.laser removed only exterior white and preserved enclosed white and 384.3528 DPI; see laser-cleanup.json for both hashes.
