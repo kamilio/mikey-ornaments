@@ -1,0 +1,27 @@
+{
+  "source": "soccer-goal/original-render.png",
+  "output": "soccer-goal/laser.png",
+  "source_sha256": "7cee13f1ae5a36639af247d9fb2fb23b62115dbf983090e21d000b23005f48ff",
+  "output_sha256": "9714fa8d045ba137d771669901b3be23eaef71a328f73a23ca5759c391dfdaa1",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    18,
+    109,
+    1132,
+    1223
+  ],
+  "output_pixels": [
+    1114,
+    1114
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 452498,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

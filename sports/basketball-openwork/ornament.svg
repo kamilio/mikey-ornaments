@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76mm" height="82mm" viewBox="2 2 76 82">
+<title>Tip-off • openwork basketball</title>
+<g id="cut" fill="none" stroke="#f00" stroke-width=".08" stroke-linejoin="round">
+<path id="top-left-window" d="M36.6 11.4 Q26 12.4 18 19.6 Q29.1 28.8 30.1 44.6 H38.6 V11.3 Z"/>
+<path id="left-wing" d="M15.9 21.5 Q6.1 31.4 4.9 44.6 H27.3 Q26.2 30.8 15.9 21.5 Z"/>
+<path id="lower-left-wing" d="M4.9 47.4 Q5.7 61.2 16.1 71.4 Q26.1 61.5 27.3 47.4 Z"/>
+<path id="lower-left-window" d="M18.2 73.3 Q27.4 80.2 38.6 81 V47.4 H30.1 Q29.1 62.5 18.2 73.3 Z"/>
+<path id="lower-right-window" d="M41.4 81 Q52.9 80.2 61.8 73.3 Q50.8 62.1 49.9 47.4 H41.4 Z"/>
+<path id="lower-right-wing" d="M63.9 71.4 Q74.2 61.4 75.1 47.4 H52.7 Q53.7 61.1 63.9 71.4 Z"/>
+<path id="right-wing" d="M75.1 44.6 Q74.2 31 64.1 21.5 Q53.8 30.2 52.7 44.6 Z"/>
+<path id="top-right-window" d="M62 19.6 Q53.4 12.2 41.4 11.3 V44.6 H49.9 Q50.8 29.1 62 19.6 Z"/>
+<path id="hook-hole" d="M38.4 6.4 A1.6 1.6 0 0 1 41.6 6.4 V7.5 H38.4 Z"/>
+<path id="perimeter" d="M36 8.21 V6 A4 4 0 0 1 44 6 V8.21 A38 38 0 1 1 36 8.21 Z"/>
+</g></svg>

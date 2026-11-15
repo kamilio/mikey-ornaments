@@ -1,0 +1,27 @@
+{
+  "source": "soccer-sweater/original-render.png",
+  "output": "soccer-sweater/laser.png",
+  "source_sha256": "0ecb8603c71e2289c8ad457d10d8001bd768323a7ed7bf08e0735b077a1690d4",
+  "output_sha256": "48812d492e5f6e736932db5a31a6b04309f8941083315502ea9928be378b574f",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    19,
+    110,
+    1131,
+    1222
+  ],
+  "output_pixels": [
+    1112,
+    1112
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 455167,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

@@ -1,0 +1,27 @@
+{
+  "source": "basketball-sweater/original-render.png",
+  "output": "basketball-sweater/laser.png",
+  "source_sha256": "e5aa725314568cf63900f44aab2c73a6bf7f813a6fc8bb478106b3d284d2f453",
+  "output_sha256": "a85472b2327bb8b159308f5215c83b1c90c5b6471abfb8dcda064b86dfd1b01c",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    13,
+    104,
+    1137,
+    1228
+  ],
+  "output_pixels": [
+    1124,
+    1124
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 435212,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

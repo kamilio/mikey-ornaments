@@ -1,8 +1,8 @@
 {
   "source": "tree-mikey/original-render.png",
   "output": "tree-mikey/laser.png",
-  "source_sha256": "fb7ddab3b5f49f0f26b958536a7a078885f1f91b2e369e8a402fd2007b1ec11c",
-  "output_sha256": "915d771da535be715fd90e85edad54128017195b76a2000c68763108e8a1c76b",
+  "source_sha256": "1af7a170dc40b8c22cd637c8d6e264e5eb64ad2231b74ea050592fb47125df53",
+  "output_sha256": "e1ac6a81595421c0c066dc6134125fdd472b81b252e207c63562f560a1cb0fa0",
   "original_pixels": [
     2221,
     2456

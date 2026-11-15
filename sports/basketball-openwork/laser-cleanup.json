@@ -1,0 +1,27 @@
+{
+  "source": "basketball-openwork/original-render.png",
+  "output": "basketball-openwork/laser.png",
+  "source_sha256": "5d08799169971c8676b85dbbae791300309aa2fb0b6125ac7ffdd38f498fe71d",
+  "output_sha256": "8e2d7296373c1844e6c39c6001d858f631c7822d025dc5d1f202aca3e6cb66bf",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    0,
+    0,
+    1150,
+    1241
+  ],
+  "output_pixels": [
+    1150,
+    1241
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 377009,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

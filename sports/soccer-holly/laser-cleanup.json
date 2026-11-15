@@ -1,0 +1,27 @@
+{
+  "source": "soccer-holly/original-render.png",
+  "output": "soccer-holly/laser.png",
+  "source_sha256": "41bb8f729f9f0e12ced8eda9e55eaaf66161a0f5adb1606087f0073806565b80",
+  "output_sha256": "4dc10efc71ed869c6743b6f46d53a9bfd1b345e7281aeb65566b8a1de882ab77",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    17,
+    108,
+    1133,
+    1223
+  ],
+  "output_pixels": [
+    1116,
+    1115
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 449876,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

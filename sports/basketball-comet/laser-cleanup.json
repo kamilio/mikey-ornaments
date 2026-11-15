@@ -1,0 +1,27 @@
+{
+  "source": "basketball-comet/original-render.png",
+  "output": "basketball-comet/laser.png",
+  "source_sha256": "054fb77de120ee61b6348bf766d56122ae7d07955c2002ed22b44c7e8eec3544",
+  "output_sha256": "b98222bfa0366b2e278651278ba45e749d7241d9ba486f6393703fd0f910016f",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    19,
+    110,
+    1131,
+    1222
+  ],
+  "output_pixels": [
+    1112,
+    1112
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 455173,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

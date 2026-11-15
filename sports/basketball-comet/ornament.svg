@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76mm" height="82mm" viewBox="2 2 76 82"><title>Fast Break</title>
+<g id="engrave" fill="#111">
+<circle cx="40" cy="46" r="35.9" fill="none" stroke="#111" stroke-width="1.65"/>
+<g id="ball" fill="none" stroke="#111" stroke-width="1.55" stroke-linejoin="round">
+<circle cx="51.2" cy="36.6" r="14.8"/>
+<path d="M37.1 40.9 C44.3 35.4 55.1 32.1 65.8 34.8 M49.3 21.9 C60.9 27.1 62.3 40.3 53.8 51.1 M39.3 27.7 C46.7 24.9 52.9 33.9 59.2 29.9 Q61.3 28.6 60.9 25.7 M43.3 49 C49.4 46.7 52.7 37.3 59 38.3 Q63.4 38.5 64.2 43.4"/></g>
+<path id="upper-trail" d="M12.1 57.6 Q24.3 52.2 34.9 40.6 Q29.1 53.1 12.1 57.6 Z"/>
+<path id="middle-trail" d="M12 63 Q27.6 59.2 38.7 47.9 Q30.8 64.9 12 63 Z"/>
+<path id="lower-trail" d="M14.9 66.3 Q33.6 67.6 46.7 53.4 Q39 72.9 14.9 66.3 Z"/>
+<path id="spark" d="M29.7 25.8 Q30.1 30 34 30.5 Q30.2 31.1 29.7 35.2 Q29 31.2 25.1 30.5 Q29 30 29.7 25.8 Z"/></g>
+<g id="cut" fill="none" stroke="red" stroke-width=".08"><circle id="hook-hole" cx="40" cy="6.1" r="1.6"/><path id="perimeter" d="M36 8.21 V6 A4 4 0 0 1 44 6 V8.21 A38 38 0 1 1 36 8.21 Z"/></g></svg>

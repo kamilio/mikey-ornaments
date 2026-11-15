@@ -1,0 +1,27 @@
+{
+  "source": "basketball-hoop/original-render.png",
+  "output": "basketball-hoop/laser.png",
+  "source_sha256": "0c62a098b51bca300c670a5660372fc7865ccacc0b73fb7fc3170e3917f87cee",
+  "output_sha256": "6a722307dce132372cee78bb56dee277db47ab30f892631a7c0d746e305b57c6",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    18,
+    109,
+    1132,
+    1223
+  ],
+  "output_pixels": [
+    1114,
+    1114
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 452498,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

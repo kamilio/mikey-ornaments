@@ -1,47 +1,64 @@
 {
   "schema_version": 1,
   "id": "wooden-name-ornaments",
-  "title": "Mikey \u2022 wooden name ornaments",
+  "title": "Mikey • wooden name ornaments",
   "library": "laser",
   "editions": [
     {
       "id": "tree-mikey",
-      "title": "Evergreen \u2022 Mikey",
+      "title": "Evergreen • Mikey",
       "svg": "tree-mikey/editable.svg",
       "cut": "tree-mikey/cut.svg",
       "download": "tree-mikey/laser.png",
       "preview": "tree-mikey/review.png",
       "original_render": "tree-mikey/original-render.png",
       "preparation_report": "tree-mikey/laser-cleanup.json",
-      "closed_cut_contours": 38,
+      "closed_cut_contours": 29,
       "retained_components": 1,
-      "status": "Digitally checked; no physical test cut."
+      "status": "Digitally checked; no physical test cut.",
+      "lettering": "Pacifico Regular, outlined with HarfBuzz; dot joined to stem, k and y joined to rails.",
+      "lettering_components": 1,
+      "retained_components_after_0_127mm_edge_erosion": 1
     },
     {
       "id": "snowflake-mikey",
-      "title": "Snowflake \u2022 Mikey",
+      "title": "Snowflake • Mikey",
       "svg": "snowflake-mikey/editable.svg",
       "cut": "snowflake-mikey/cut.svg",
       "download": "snowflake-mikey/laser.png",
       "preview": "snowflake-mikey/review.png",
       "original_render": "snowflake-mikey/original-render.png",
       "preparation_report": "snowflake-mikey/laser-cleanup.json",
-      "closed_cut_contours": 27,
+      "closed_cut_contours": 19,
       "retained_components": 1,
-      "status": "Digitally checked; no physical test cut."
+      "status": "Digitally checked; no physical test cut.",
+      "lettering": "Pacifico Regular, outlined with HarfBuzz; dot joined to stem, k and y joined to rails.",
+      "lettering_components": 1,
+      "retained_components_after_0_127mm_edge_erosion": 1
     },
     {
       "id": "scrollwork-mikey",
-      "title": "Scrollwork \u2022 Mikey",
+      "title": "Scrollwork • Mikey",
       "svg": "scrollwork-mikey/editable.svg",
       "cut": "scrollwork-mikey/cut.svg",
       "download": "scrollwork-mikey/laser.png",
       "preview": "scrollwork-mikey/review.png",
       "original_render": "scrollwork-mikey/original-render.png",
       "preparation_report": "scrollwork-mikey/laser-cleanup.json",
-      "closed_cut_contours": 39,
+      "closed_cut_contours": 31,
       "retained_components": 1,
-      "status": "Digitally checked; no physical test cut."
+      "status": "Digitally checked; no physical test cut.",
+      "lettering": "Pacifico Regular, outlined with HarfBuzz; dot joined to stem, k and y joined to rails.",
+      "lettering_components": 1,
+      "retained_components_after_0_127mm_edge_erosion": 1
     }
-  ]
+  ],
+  "font": {
+    "family": "Pacifico",
+    "style": "Regular",
+    "source": "https://fonts.google.com/specimen/Pacifico",
+    "license": "Pacifico-OFL.txt",
+    "shaping": "HarfBuzz",
+    "font_sha256": "5b6c0d5334a7bf77dea52b975c5a0c408878c0f7115ed5b6fb151f634b7bf701"
+  }
 }

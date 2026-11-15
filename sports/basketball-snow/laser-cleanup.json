@@ -1,0 +1,27 @@
+{
+  "source": "basketball-snow/original-render.png",
+  "output": "basketball-snow/laser.png",
+  "source_sha256": "d486b0bdbfc9cd72346df578baed27f3fe5d2c30280f4ddbbe98ca63a5278bab",
+  "output_sha256": "797e0aa1f2f8c862abd3fb8efab88fd75d85371674704a0db3a0b420a4f99b65",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    17,
+    109,
+    1132,
+    1222
+  ],
+  "output_pixels": [
+    1115,
+    1113
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 453785,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

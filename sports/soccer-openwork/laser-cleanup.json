@@ -1,0 +1,27 @@
+{
+  "source": "soccer-openwork/original-render.png",
+  "output": "soccer-openwork/laser.png",
+  "source_sha256": "5ec90d1c54421470bc8b22566e001ba7d0f77f1603d07f0704dbc536bcd70e9d",
+  "output_sha256": "b383b042e914177adf685f16ac3ed2bf8e1149a55d7c58c42e6c452c59d158e2",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    0,
+    0,
+    1150,
+    1241
+  ],
+  "output_pixels": [
+    1150,
+    1241
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 377009,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

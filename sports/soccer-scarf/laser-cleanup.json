@@ -1,0 +1,27 @@
+{
+  "source": "soccer-scarf/original-render.png",
+  "output": "soccer-scarf/laser.png",
+  "source_sha256": "02489f012a93e5582225ca594b95b82ae873697cfd442f41fb5370855c783a1e",
+  "output_sha256": "61d15206e2cbe83c461a4229ab689749abcb871d527f6229eb356ec28b4c96af",
+  "original_pixels": [
+    1150,
+    1241
+  ],
+  "crop_box": [
+    18,
+    108,
+    1132,
+    1223
+  ],
+  "output_pixels": [
+    1114,
+    1115
+  ],
+  "dpi": [
+    384.3528,
+    384.3528
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 451206,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

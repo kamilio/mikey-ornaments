@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76mm" height="82mm" viewBox="2 2 76 82"><title>Nothing but Net</title>
+<g id="engrave" fill="none" stroke="#111"><circle cx="40" cy="46" r="36" stroke-width="1.55"/>
+<path id="backboard" stroke-width="2.15" d="M22.6 54.3 H15.4 V32.1 C15.4 24.7 20 19 27.3 19 H52.7 C60.1 19 64.6 24.2 64.6 32.1 V54.3 H57.4"/>
+<g id="ball" stroke-width="1.5"><circle cx="40" cy="33.1" r="10.8"/><path d="M40 22.5 V43.7 M29.6 34 Q40 29.4 50.4 34 M32.6 25.2 Q40.3 32.5 32.7 40.9 M47.4 25.2 Q39.5 32.5 47.3 40.9"/></g>
+<ellipse id="rim" cx="40" cy="50.3" rx="18.3" ry="3.35" stroke-width="1.85"/>
+<g id="net" stroke-width="1.45" stroke-linejoin="round"><path d="M24.2 52.1 Q29.4 65 40 77.1 Q50.6 64.7 55.8 52.1 M28.7 62.1 L34.8 53.6 44.4 67.6 40 73.4 M51.3 62.1 L45.2 53.6 35.6 67.6 40 73.4 M27 52.9 L35.6 65.7 M53 52.9 L44.4 65.7"/></g></g>
+<g id="cut" fill="none" stroke="red" stroke-width=".08"><circle id="hook-hole" cx="40" cy="6.1" r="1.6"/><path id="perimeter" d="M36 8.21 V6 A4 4 0 0 1 44 6 V8.21 A38 38 0 1 1 36 8.21 Z"/></g></svg>
