@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "id": "wooden-name-ornaments",
+  "title": "Mikey \u2022 wooden name ornaments",
+  "library": "laser",
+  "editions": [
+    {
+      "id": "tree-mikey",
+      "title": "Evergreen \u2022 Mikey",
+      "svg": "tree-mikey/editable.svg",
+      "cut": "tree-mikey/cut.svg",
+      "download": "tree-mikey/laser.png",
+      "preview": "tree-mikey/review.png",
+      "original_render": "tree-mikey/original-render.png",
+      "preparation_report": "tree-mikey/laser-cleanup.json",
+      "closed_cut_contours": 38,
+      "retained_components": 1,
+      "status": "Digitally checked; no physical test cut."
+    },
+    {
+      "id": "snowflake-mikey",
+      "title": "Snowflake \u2022 Mikey",
+      "svg": "snowflake-mikey/editable.svg",
+      "cut": "snowflake-mikey/cut.svg",
+      "download": "snowflake-mikey/laser.png",
+      "preview": "snowflake-mikey/review.png",
+      "original_render": "snowflake-mikey/original-render.png",
+      "preparation_report": "snowflake-mikey/laser-cleanup.json",
+      "closed_cut_contours": 27,
+      "retained_components": 1,
+      "status": "Digitally checked; no physical test cut."
+    },
+    {
+      "id": "scrollwork-mikey",
+      "title": "Scrollwork \u2022 Mikey",
+      "svg": "scrollwork-mikey/editable.svg",
+      "cut": "scrollwork-mikey/cut.svg",
+      "download": "scrollwork-mikey/laser.png",
+      "preview": "scrollwork-mikey/review.png",
+      "original_render": "scrollwork-mikey/original-render.png",
+      "preparation_report": "scrollwork-mikey/laser-cleanup.json",
+      "closed_cut_contours": 39,
+      "retained_components": 1,
+      "status": "Digitally checked; no physical test cut."
+    }
+  ]
+}

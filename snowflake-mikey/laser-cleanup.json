@@ -1,0 +1,27 @@
+{
+  "source": "snowflake-mikey/original-render.png",
+  "output": "snowflake-mikey/laser.png",
+  "source_sha256": "99d7847bd4f9f46d383fc71233f5a4a0275f382d3a263f6be8e7bcf80cdbac0c",
+  "output_sha256": "91508bf0ca37d8423ecc6eb83b2327cc7a0f7af27123e9a67f166b38aef0f153",
+  "original_pixels": [
+    2221,
+    2517
+  ],
+  "crop_box": [
+    59,
+    18,
+    2191,
+    2469
+  ],
+  "output_pixels": [
+    2132,
+    2451
+  ],
+  "dpi": [
+    599.9988,
+    599.9988
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 1929190,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

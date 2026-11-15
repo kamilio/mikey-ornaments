@@ -1,0 +1,27 @@
+{
+  "source": "tree-mikey/original-render.png",
+  "output": "tree-mikey/laser.png",
+  "source_sha256": "fb7ddab3b5f49f0f26b958536a7a078885f1f91b2e369e8a402fd2007b1ec11c",
+  "output_sha256": "915d771da535be715fd90e85edad54128017195b76a2000c68763108e8a1c76b",
+  "original_pixels": [
+    2221,
+    2456
+  ],
+  "crop_box": [
+    48,
+    39,
+    2187,
+    2408
+  ],
+  "output_pixels": [
+    2139,
+    2369
+  ],
+  "dpi": [
+    599.9988,
+    599.9988
+  ],
+  "white_threshold": 245,
+  "exterior_pixels_cleared": 1793689,
+  "method": "border-connected background removal, exterior edge unmatting, alpha crop"
+}

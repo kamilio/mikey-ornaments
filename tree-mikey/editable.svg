@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94mm" height="103.94mm" viewBox="0 0 624 690"><title>Mikey • evergreen name ornament</title>
+<ellipse id="rim" cx="314" cy="375" rx="289" ry="290" fill="none" stroke="black" stroke-width="23"/>
+<circle id="hanging-eye" cx="314" cy="51" r="31" fill="none" stroke="black" stroke-width="18"/>
+<path id="rails" d="M33 314 H594 M33 445 H594" fill="none" stroke="black" stroke-width="15"/>
+<g id="evergreen" fill="none" stroke="black" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+<path d="M220 313 Q241 286 265 251 C241 254 216 259 194 258 Q181 256 194 245 C243 214 283 155 310 91 M408 313 Q386 285 361 251 C383 254 412 260 435 258 Q450 256 436 245 C385 213 346 154 318 91"/>
+<path d="M193 445 Q149 501 82 541 M435 445 Q483 500 545 536 M91 555 Q231 550 314 487 Q399 550 537 555"/></g>
+<g id="left-crown-flake" fill="none" stroke="black" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M177 118 L201 202 M152 202 L206 122 M135 163 L241 139 M152 134 L237 182"/>
+<path d="M160 191 l9 -5 1 11 M188 190 l10 5 5 -9 M146 153 l8 6 -3 9 M214 132 l-3 12 10 6 M226 135 l-2 6 9 6 M216 162 l-1 8 -9 4 M184 136 l5 6 5 -9"/>
+</g>
+<g id="right-crown-flake" fill="none" stroke="black" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M395 100 L454 196 M368 159 L461 122 M415 191 L446 111 M377 119 L480 168"/>
+<path d="M384 141 l4 10 13 1 M395 103 l4 10 10 -1 M418 174 l4 7 9 -5 M437 180 l12 8 3 -13 M451 146 l7 11 10 -4 M465 136 l-9 -8 1 -10"/></g>
+<g id="mid-left-flake" fill="none" stroke="black" stroke-width="7.7" stroke-linecap="round" stroke-linejoin="round">
+<path d="M99 228 L132 314 M153 231 L117 313 M58 269 L157 309 M68 309 L187 275"/>
+<path d="M91 245 l15 6 6 -12 M101 262 l12 5 6 -11 M140 239 l5 11 11 -4 M137 253 l3 11 13 -3 M69 260 l6 14 -8 7 M84 268 l5 13 -6 6 M169 266 l-5 16 15 4 M145 277 l-4 12 13 5"/></g>
+<g id="mid-right-flake" fill="none" stroke="black" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M501 217 L531 312 M549 225 L508 314 M462 249 L574 299 M456 302 L571 261"/>
+<path d="M492 232 l13 8 8 -12 M498 249 l13 7 6 -11 M534 233 l5 12 12 -4 M526 251 l4 10 11 -3 M467 245 l5 13 -9 6 M483 254 l6 13 -11 4 M554 257 l-6 13 10 7 M539 265 l-5 13 11 5"/></g>
+<g id="lower-corner-sprigs" fill="none" stroke="black" stroke-width="6.8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M83 446 L101 500 M71 489 L92 446 M55 475 L116 448 M64 448 L138 474 M86 480 l9 6 6 -9 M63 465 l6 4 -2 8 M115 458 l3 9 11 -5 M529 446 L562 502 M552 446 L522 479 M504 467 L570 446 M529 469 l1 -10 -12 -2 M542 483 l10 4 4 -11"/></g>
+<g id="base-crystal" fill="none" stroke="black" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M279 513 L345 649 M345 512 L284 649 M248 559 L380 610 M250 612 L378 556"/>
+<path d="M274 524 l14 8 4 -12 M284 544 l12 7 5 -13 M329 523 l5 14 13 -6 M322 542 l4 13 13 -6 M251 553 l12 13 -6 9 M269 554 l11 16 -8 9 M351 550 l-4 16 14 5 M366 546 l-4 16 15 5 M257 597 l12 6 -2 14 M277 588 l12 7 -2 11 M342 592 l4 10 14 -4 M358 598 l6 11 11 -4 M280 629 l10 -6 3 13 M293 611 l9 -6 4 14 M323 611 l6 8 7 -10 M329 630 l9 8 5 -8"/></g>
+<g id="mikey" fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round">
+<path id="capital" stroke-width="8.5" d="M138 429 Q150 437 166 388 C177 353 186 321 199 317 Q210 311 205 335 L188 440 C201 402 222 349 237 333 Q247 323 245 339 L230 418 C245 383 268 332 282 322 Q294 311 290 332 L271 416 Q266 437 277 440 Q287 440 301 412"/>
+<path fill="black" stroke="none" d="M192 325 Q211 301 213 318 Q214 326 206 359 L195 432 Q194 446 182 442 L199 343 Q204 324 192 325Z M232 339 Q250 316 252 335 L239 414 Q237 427 224 422 L237 353Z M279 325 Q296 306 297 324 L278 417 Q274 433 283 439 Q268 452 263 439 Q260 432 264 413Z"/>
+<path id="i" stroke-width="9" d="M310 381 L302 422 Q299 451 319 428 L334 405"/><path stroke-width="5.8" d="M313 364 L310 382"/><circle cx="313.5" cy="361" r="6.8" fill="black" stroke="none"/>
+<path id="k" stroke-width="8.2" d="M330 439 C340 395 345 349 369 321 Q386 309 373 341 Q358 374 342 386 M338 413 C352 388 368 371 375 382 C382 395 358 412 345 409 Q358 408 366 429 Q373 446 387 426 L395 410"/>
+<path id="e" stroke-width="8" d="M386 415 Q422 414 420 389 C418 373 401 383 394 402 C384 430 396 446 414 434 Q426 425 436 405"/>
+<path id="y" stroke-width="8.1" d="M442 381 C437 402 427 430 440 430 Q454 430 468 384 C463 417 458 445 439 463 C423 477 416 463 428 449 C444 432 470 430 490 400"/></g><path id="flake-and-letter-welds" d="M426 136 H434 V142 H426 Z M427 146 H430 V149 H427 Z M138 154 H147 V160 H138 Z M531 262 H537 V272 H531 Z M130 301 H142 V308 H130 Z M123 304 H126 V308 H123 Z M451 421 H458 V429 H451 Z M91 451 H99 V456 H91 Z M535 451 H540 V454 H535 Z M532 460 H535 V463 H532 Z M271 517 H281 V524 H271 Z"/></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94mm" height="106.5333mm" viewBox="0 0 600 680">
+<title>Mikey • snowflake name ornament</title><desc>Black is retained material. Individually drawn centerlines, lettering and frame.</desc>
+<ellipse id="frame" cx="304" cy="381" rx="274" ry="272" fill="none" stroke="black" stroke-width="28"/>
+<path id="cap" d="M238 108 V78 Q238 58 256 58 H352 Q370 58 370 78 V108 Q308 96 238 108Z"/>
+<circle id="eyelet" cx="304" cy="41" r="30" fill="none" stroke="black" stroke-width="12"/>
+<path id="rails" d="M39 314 H568 M40 442 H568" fill="none" stroke="black" stroke-width="15"/>
+<g id="upper-crystal" fill="none" stroke="black" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+<path d="M306 118 V313 M265 176 L306 203 347 176 M245 215 L306 255 367 215 M262 276 L306 305 350 276"/>
+<path d="M78 246 L194 314 M148 243 L152 288 111 312 M193 245 L198 314 M237 290 L238 313 M532 246 L419 314 M461 243 L457 288 498 312 M416 245 L411 314 M370 291 L368 313"/>
+</g>
+<g id="lower-crystal" fill="none" stroke="black" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+<path d="M306 443 V637 M260 481 L306 449 352 481 M243 544 L306 501 369 544 M264 584 L306 557 349 584"/>
+<path d="M76 514 L199 442 M148 520 L152 473 109 449 M193 518 L199 442 M238 473 L240 443 M534 514 L413 442 M461 520 L457 473 501 449 M416 518 L411 442 M369 471 L367 443"/></g>
+<g id="limb-tips"><circle cx="305" cy="129" r="14"/><circle cx="305" cy="626" r="14"/><circle cx="90" cy="255" r="14"/><circle cx="517" cy="256" r="14"/><circle cx="87" cy="508" r="14"/><circle cx="519" cy="507" r="14"/></g>
+<g id="mikey" fill="none" stroke="black" stroke-linecap="round" stroke-linejoin="round">
+<path id="M" stroke-width="8" d="M126 431 C142 431 150 397 162 353 Q172 324 185 317 C193 311 192 321 190 332 L174 438 C187 395 209 346 222 335 Q230 327 228 341 L215 418 C228 380 249 335 263 324 Q272 317 269 334 L251 418 Q247 436 257 438 Q269 440 283 409"/>
+<path fill="black" stroke="none" d="M177 322 Q190 306 196 316 Q198 325 192 356 L181 437 Q176 445 168 438 L182 342 Q186 324 177 322Z M221 335 Q237 319 234 341 L221 419 Q213 431 208 420 L221 351Z M262 325 Q277 310 276 328 L258 419 Q254 433 261 436 Q250 450 245 433 Q243 426 247 410Z"/>
+<path id="i" stroke-width="9" d="M293 381 Q286 411 285 424 Q284 450 302 429 L319 404"/>
+<path id="tethered-i-dot" stroke-width="5.8" d="M294.8 368 L293 382"/><circle cx="295.4" cy="365" r="6.8" fill="black" stroke="none"/>
+<path id="k" stroke-width="8" d="M312 437 C320 397 323 349 346 322 C357 311 361 326 349 349 Q337 375 322 385 M321 411 C331 393 348 375 353 383 C363 396 337 411 326 408 Q338 409 345 423 Q354 446 369 426 L379 409"/>
+<path id="e" stroke-width="8" d="M367 414 Q399 411 399 391 C398 373 382 383 375 402 C365 429 375 442 392 434 Q404 428 415 405"/>
+<path id="y" stroke-width="8" d="M420 382 C415 399 405 427 417 429 Q432 431 446 385 C440 417 436 444 420 459 C404 474 396 462 408 447 C422 431 448 429 469 402"/>
+</g><path id="letter-welds" d="M429 421 H435 V429 H429 Z M365 431 H372 V435 H365 Z"/></svg>
